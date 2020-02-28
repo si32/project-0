@@ -17,9 +17,12 @@ nav {
 #W {
     color: mediumvioletred;
 }
+#W:hover {
+    color: blueviolet;
+}
 
 #welcome {
     padding: 30px;
-    text-align: center;
+    text-align: left;
     vertical-align: bottom;
 }
