@@ -1,0 +1,25 @@
+h1, h2, h3, p, a {
+    color: linen;
+    text-align: justify;
+}
+
+nav {
+    display: block;
+  }
+
+.body {
+    background-image: url(static/pictures/programmer.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#W {
+    color: mediumvioletred;
+}
+
+#welcome {
+    padding: 30px;
+    text-align: center;
+    vertical-align: bottom;
+}
