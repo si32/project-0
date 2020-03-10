@@ -1,4 +1,4 @@
-h1, h2, h3, p, a {
+h1, h2, h3, p, a, table {
     color: linen;
     text-align: justify;
 }
@@ -25,4 +25,16 @@ nav {
     padding: 30px;
     text-align: left;
     vertical-align: bottom;
+}
+
+table {
+    border: 2px solid linen;
+    border-collapse: collapse;
+    width: 85%;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid linen;
+    padding: 5px;
 }
