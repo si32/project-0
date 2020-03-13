@@ -1,0 +1,22 @@
+th {
+  background-color: #343a40;
+}
+
+form button {
+  background-color: gray;
+}
+
+.page1, .pages {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 100;
+  font-size: 22pt;
+}
+
+.page1 {
+  color: mediumvioletred;
+}
+
+.pages {
+  color: blueviolet;
+}
+/*# sourceMappingURL=s_style.css.map */
